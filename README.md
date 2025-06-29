@@ -3,7 +3,8 @@ Simple expense tracker that is meant to allow clients the chance to input their 
 
 **Link to project:** 
 
-![alt tag](http://placecorgi.com/1200/650)
+<img width="1226" alt="image" src="https://github.com/user-attachments/assets/3d892671-08a2-430c-a4ca-d1b83e6c149a" />
+
 
 ## How It's Made:
 
