@@ -1,29 +1,17 @@
-# .
+# Golden Goals Expense Tracker
+Simple expense tracker that is meant to allow clients the chance to input their income and any expenses they may have, in order to track their spending. Data is saved to localStorage, so no account is needed.
 
-This template should help get you started developing with Vue 3 in Vite.
+**Link to project:** 
 
-## Recommended IDE Setup
+![alt tag](http://placecorgi.com/1200/650)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## How It's Made:
 
-## Customize configuration
+**Tech used:** HTML, CSS, JavaScript, Vue.js
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+Originally created a base app with Vanilla JavaScript for a client, where the goal of the project was to create a small web app meant for their customers that could help them track their income and expenses in a simple way. I decided to use Vue.js and the composition API to create a more modern and simple design that was more in line with best practices. 
 
-## Project Setup
 
-```sh
-npm install
-```
+## Lessons Learned:
+I had ideas to set up a database, which could store a client's account credentials, but later decided to keep it simple and use localStorage. This project could have gotten a lot more complicated through the use of oAuth authentification, allowing multiple user profiles on an account, among many other ideas that were floated around during the initial design period, but we decided the focus for this web app to simply be an easy stepping stone to helping customers achieve financial literacy and introducing them to simple methods to help them keep track of their financial habits.
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
