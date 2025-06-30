@@ -4,6 +4,7 @@ Simple expense tracker that is meant to allow clients the chance to input their 
 **Link to project:** 
 
 <img width="1226" alt="image" src="https://github.com/user-attachments/assets/3d892671-08a2-430c-a4ca-d1b83e6c149a" />
+<img width="1227" alt="image" src="https://github.com/user-attachments/assets/dd471c41-99f1-45a8-a277-83992c8c4d68" />
 
 
 ## How It's Made:
